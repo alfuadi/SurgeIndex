@@ -2,11 +2,12 @@ requests
 pandas
 numpy
 datetime
-pymetdecoder
+git+https://github.com/antarctica/pymetdecoder.git
 io
 matplotlib
 xarray
 siphon
 netCDF4
 matplotlib
+
 warnings
