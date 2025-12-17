@@ -1,0 +1,12 @@
+requests
+pandas
+numpy
+datetime
+pymetdecoder
+io
+matplotlib
+xarray
+siphon
+netCDF4
+matplotlib
+warnings
